@@ -1,0 +1,10 @@
+import { render } from "./TransferInput.vue?vue&type=template&id=bb20c77c&scoped=true"
+import script from "./TransferInput.vue?vue&type=script&lang=js"
+export * from "./TransferInput.vue?vue&type=script&lang=js"
+
+import "./TransferInput.vue?vue&type=style&index=0&id=bb20c77c&scoped=true&lang=css"
+
+import exportComponent from "../../../node_modules/vue-loader/dist/exportHelper.js"
+const __exports__ = /*#__PURE__*/exportComponent(script, [['render',render],['__scopeId',"data-v-bb20c77c"]])
+
+export default __exports__

@@ -1,0 +1,10 @@
+import { render } from "./FriendsNav.vue?vue&type=template&id=71d8ac6e&scoped=true"
+import script from "./FriendsNav.vue?vue&type=script&lang=js"
+export * from "./FriendsNav.vue?vue&type=script&lang=js"
+
+import "./FriendsNav.vue?vue&type=style&index=0&id=71d8ac6e&scoped=true&lang=css"
+
+import exportComponent from "../../../node_modules/vue-loader/dist/exportHelper.js"
+const __exports__ = /*#__PURE__*/exportComponent(script, [['render',render],['__scopeId',"data-v-71d8ac6e"]])
+
+export default __exports__

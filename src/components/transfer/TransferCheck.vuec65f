@@ -1,0 +1,10 @@
+import { render } from "./TransferCheck.vue?vue&type=template&id=597bcb98&scoped=true"
+import script from "./TransferCheck.vue?vue&type=script&lang=js"
+export * from "./TransferCheck.vue?vue&type=script&lang=js"
+
+import "./TransferCheck.vue?vue&type=style&index=0&id=597bcb98&scoped=true&lang=css"
+
+import exportComponent from "../../../node_modules/vue-loader/dist/exportHelper.js"
+const __exports__ = /*#__PURE__*/exportComponent(script, [['render',render],['__scopeId',"data-v-597bcb98"]])
+
+export default __exports__

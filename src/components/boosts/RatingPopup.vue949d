@@ -1,0 +1,10 @@
+import { render } from "./RatingPopup.vue?vue&type=template&id=a60d6c36&scoped=true"
+import script from "./RatingPopup.vue?vue&type=script&lang=js"
+export * from "./RatingPopup.vue?vue&type=script&lang=js"
+
+import "./RatingPopup.vue?vue&type=style&index=0&id=a60d6c36&scoped=true&lang=css"
+
+import exportComponent from "../../../node_modules/vue-loader/dist/exportHelper.js"
+const __exports__ = /*#__PURE__*/exportComponent(script, [['render',render],['__scopeId',"data-v-a60d6c36"]])
+
+export default __exports__

@@ -1,0 +1,10 @@
+import { render } from "./SquadStats.vue?vue&type=template&id=24413c69&scoped=true"
+import script from "./SquadStats.vue?vue&type=script&lang=js"
+export * from "./SquadStats.vue?vue&type=script&lang=js"
+
+import "./SquadStats.vue?vue&type=style&index=0&id=24413c69&scoped=true&lang=css"
+
+import exportComponent from "../../../node_modules/vue-loader/dist/exportHelper.js"
+const __exports__ = /*#__PURE__*/exportComponent(script, [['render',render],['__scopeId',"data-v-24413c69"]])
+
+export default __exports__

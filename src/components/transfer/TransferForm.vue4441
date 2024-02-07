@@ -1,0 +1,10 @@
+import { render } from "./TransferForm.vue?vue&type=template&id=157146d7&scoped=true"
+import script from "./TransferForm.vue?vue&type=script&lang=js"
+export * from "./TransferForm.vue?vue&type=script&lang=js"
+
+import "./TransferForm.vue?vue&type=style&index=0&id=157146d7&scoped=true&lang=css"
+
+import exportComponent from "../../../node_modules/vue-loader/dist/exportHelper.js"
+const __exports__ = /*#__PURE__*/exportComponent(script, [['render',render],['__scopeId',"data-v-157146d7"]])
+
+export default __exports__

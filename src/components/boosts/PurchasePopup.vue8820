@@ -1,0 +1,10 @@
+import { render } from "./PurchasePopup.vue?vue&type=template&id=5da9e9c2&scoped=true"
+import script from "./PurchasePopup.vue?vue&type=script&lang=js"
+export * from "./PurchasePopup.vue?vue&type=script&lang=js"
+
+import "./PurchasePopup.vue?vue&type=style&index=0&id=5da9e9c2&scoped=true&lang=css"
+
+import exportComponent from "../../../node_modules/vue-loader/dist/exportHelper.js"
+const __exports__ = /*#__PURE__*/exportComponent(script, [['render',render],['__scopeId',"data-v-5da9e9c2"]])
+
+export default __exports__

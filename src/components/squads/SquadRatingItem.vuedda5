@@ -1,0 +1,10 @@
+import { render } from "./SquadRatingItem.vue?vue&type=template&id=65dc41ff&scoped=true"
+import script from "./SquadRatingItem.vue?vue&type=script&lang=js"
+export * from "./SquadRatingItem.vue?vue&type=script&lang=js"
+
+import "./SquadRatingItem.vue?vue&type=style&index=0&id=65dc41ff&scoped=true&lang=css"
+
+import exportComponent from "../../../node_modules/vue-loader/dist/exportHelper.js"
+const __exports__ = /*#__PURE__*/exportComponent(script, [['render',render],['__scopeId',"data-v-65dc41ff"]])
+
+export default __exports__

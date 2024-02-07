@@ -1,0 +1,10 @@
+import { render } from "./SearchSquad.vue?vue&type=template&id=54ff7431&scoped=true"
+import script from "./SearchSquad.vue?vue&type=script&lang=js"
+export * from "./SearchSquad.vue?vue&type=script&lang=js"
+
+import "./SearchSquad.vue?vue&type=style&index=0&id=54ff7431&scoped=true&lang=css"
+
+import exportComponent from "../../../node_modules/vue-loader/dist/exportHelper.js"
+const __exports__ = /*#__PURE__*/exportComponent(script, [['render',render],['__scopeId',"data-v-54ff7431"]])
+
+export default __exports__

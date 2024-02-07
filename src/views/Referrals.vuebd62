@@ -1,0 +1,10 @@
+import { render } from "./Referrals.vue?vue&type=template&id=c4f9817e&scoped=true"
+import script from "./Referrals.vue?vue&type=script&lang=js"
+export * from "./Referrals.vue?vue&type=script&lang=js"
+
+import "./Referrals.vue?vue&type=style&index=0&id=c4f9817e&scoped=true&lang=css"
+
+import exportComponent from "../../node_modules/vue-loader/dist/exportHelper.js"
+const __exports__ = /*#__PURE__*/exportComponent(script, [['render',render],['__scopeId',"data-v-c4f9817e"]])
+
+export default __exports__

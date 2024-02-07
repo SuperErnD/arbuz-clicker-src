@@ -1,0 +1,10 @@
+import { render } from "./SkeletonItem.vue?vue&type=template&id=0743105a&scoped=true"
+import script from "./SkeletonItem.vue?vue&type=script&lang=js"
+export * from "./SkeletonItem.vue?vue&type=script&lang=js"
+
+import "./SkeletonItem.vue?vue&type=style&index=0&id=0743105a&scoped=true&lang=css"
+
+import exportComponent from "../../../node_modules/vue-loader/dist/exportHelper.js"
+const __exports__ = /*#__PURE__*/exportComponent(script, [['render',render],['__scopeId',"data-v-0743105a"]])
+
+export default __exports__
